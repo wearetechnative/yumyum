@@ -6,7 +6,9 @@ on:
     branches:
     - main  # Set a branch to deploy
 
-permissions: read-all|write-all
+permissions:
+    contents: write
+
 
 jobs:
   deploy:
