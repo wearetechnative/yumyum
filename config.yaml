@@ -3,21 +3,21 @@ languageCode: en-us
 title: Yum Yum at TechNative
 theme: summer-qremix
 params:
-  tagline: 🥩 Delicious recipes by TechNative's 🥒
+  tagline: 🥩 Delicious recipes by TechNatives 🥒
   copyright: >-
-    © 2023 [The people from
-    TechNative](https://github.com/wearetechnative/yumyum). All rights reserved.
+    © 2023 [The people from TechNative](https://technative.eu). All rights
+    reserved.
   links:
     - name: GitHub
-      url: https://github.com/mipmip/summer-qremix
-    - name: The Quiqr Book
-      url: https://book.quiqr.org
-  moreLinksTitle: More Themes
+      url: https://github.com/wearetechnative/yumyum
+    - name: TechNative Company
+      url: https://technative.eu
+  moreLinksTitle: More links
   moreLinks:
-    - name: Spring
-      url: https://connor-baer.github.io/spring
-    - name: Autumn
-      url: https://connor-baer.github.io/autumn
+    - name: Quiqr
+      url: https://quiqr.org
+    - name: Hugo
+      url: https://gohugo.io
   color: '#FF5900'
   font: Rubik
   resources: []
