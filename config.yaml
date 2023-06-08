@@ -1,12 +1,12 @@
-baseURL: http://example.org/
+baseURL: https://wearetechnative.github.io/yumyum/
 languageCode: en-us
 title: Yum Yum at TechNative
 theme: summer-qremix
 params:
-  tagline: Delicious & healthy recipes
+  tagline: 🥩 Delicious recipes by TechNative's 🥒
   copyright: >-
-    © 2017-2022 [Connor Bär](https://twitter.com/connor_baer). © 2022 [Pim
-    Snel](https://github.com/mipmip). All rights reserved.
+    © 2023 [The people from
+    TechNative](https://github.com/wearetechnative/yumyum). All rights reserved.
   links:
     - name: GitHub
       url: https://github.com/mipmip/summer-qremix
