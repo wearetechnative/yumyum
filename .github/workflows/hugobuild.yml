@@ -6,6 +6,8 @@ on:
     branches:
     - main  # Set a branch to deploy
 
+permissions: read-all|write-all
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
