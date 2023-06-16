@@ -7,6 +7,7 @@ category: bread
 tags:
   - bread
   - baking
+  - sourdough
 ingredients:
   - name: T65 flower
     amount: '160'
