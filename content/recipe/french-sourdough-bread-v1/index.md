@@ -26,6 +26,7 @@ ingredients:
     unit: tbsp
 sample_field: ./images/cauliflower-steaks-large.jpeg
 side_image: ./images/tienminutenbrood.png
+author: Pim Snel
 
 ---
 

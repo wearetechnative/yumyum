@@ -41,6 +41,7 @@ ingredients:
     unit: taste
     amount: to
 side_image: ./images/Savoury_tart_with_spinach_and_ham_and_tomato-1.png
+author: Wouter van de Toorren
 
 ---
 
