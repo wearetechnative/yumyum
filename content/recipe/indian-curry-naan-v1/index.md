@@ -35,6 +35,7 @@ ingredients:
     amount: '1'
 sample_field: ./images/cauliflower-steaks-large.jpeg
 side_image: ./images/curry.jpg
+author: Rense Siegmund
 
 ---
 

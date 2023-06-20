@@ -35,6 +35,8 @@
     - key: ref
       title: Ref
       type: string
+    - key: author
+      type: string
     - key: image
       title: Image
       type: boolean
