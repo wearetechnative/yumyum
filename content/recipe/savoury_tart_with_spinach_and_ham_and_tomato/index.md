@@ -40,7 +40,7 @@ ingredients:
   - name: Graded cheese
     unit: taste
     amount: to
-side_image: ./images/Savoury_tart_with_spinach_and_ham_and_tomato-1.png
+side_image: ./images/savory_tart_spinache_ham.png
 author: Wouter van de Toorren
 
 ---
@@ -55,8 +55,6 @@ author: Wouter van de Toorren
 - Beat the eggs together with the cream and mix in the herbs. 
 - Grease a spring form or baking dish with a little oil and then cover with the puff pastry slices. 
 - Divide the ham cubes and the contents of the snack pan over the puff pastry.
-
-{{< figure src="./images/Savoury_tart_with_spinach_and_ham_and_tomato-2.png" >}}
 
 - Pour the egg mixture on top and sprinkle the top with grated cheese. 
 - Put the savory pie with spinach and ham in the oven for about 30-35 minutes
