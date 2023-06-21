@@ -40,7 +40,7 @@ ingredients:
   - name: Graded cheese
     unit: taste
     amount: to
-side_image: ./images/Savoury_tart_with_spinach_and_ham_and_tomato-1.png
+side_image: ./images/savory_tart_spinache_ham.png
 
 ---
 
