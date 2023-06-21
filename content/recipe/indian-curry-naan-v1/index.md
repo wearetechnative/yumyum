@@ -8,6 +8,7 @@ tags:
   - Indian
   - Curry
   - vegan
+  - vegetarian
 ingredients:
   - name: Komkommer
     amount: '1'
@@ -36,6 +37,7 @@ ingredients:
 sample_field: ./images/cauliflower-steaks-large.jpeg
 side_image: ./images/curry.jpg
 author: Rense Siegmund
+quantity: 4 servings
 
 ---
 
@@ -49,7 +51,7 @@ Verhit de olie in een hapjespan en fruit de uien 2 min. op middelhoog vuur. Voeg
 Schil ondertussen de mango, verwijder de pit en snijd het vruchtvlees in blokjes. Voeg de mango de laatste 3 min. toe en kook mee.
 
 4
-Bereid de Naam volgens de aanwijzingen op de verpakking. Snijd de koriander grof. Verdeel de curry over diepe borden en garneer met koriander.
+Bereid de Naan volgens de aanwijzingen op de verpakking. Snijd de koriander grof. Verdeel de curry over diepe borden en garneer met koriander.
 
 
 
