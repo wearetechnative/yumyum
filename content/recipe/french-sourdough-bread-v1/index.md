@@ -27,6 +27,7 @@ ingredients:
 sample_field: ./images/cauliflower-steaks-large.jpeg
 side_image: ./images/tienminutenbrood.png
 author: Pim Snel
+quantity: 1 bread
 
 ---
 
