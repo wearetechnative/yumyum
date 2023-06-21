@@ -46,6 +46,12 @@
     - key: tags
       title: Tags
       type: chips
+    - key: time
+      title: Preparation + Cooking time
+      type: string
+    - key: quantity
+      title: Servings
+      type: string
 
     - key: ingredients
       title: Ingredients
