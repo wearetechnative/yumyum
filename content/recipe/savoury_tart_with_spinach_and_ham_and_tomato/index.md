@@ -8,7 +8,7 @@ tags:
   - quick
   - dinner
 time: 20+30
-quantity: 2-3
+quantity: 2-3 persons
 ingredients:
   - name: Savory pie with spinach and ham
     unit: slice
