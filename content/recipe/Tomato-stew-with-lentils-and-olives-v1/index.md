@@ -65,7 +65,8 @@ A hearty one-pot dish packed with flavor.
 
 ### Enjoy your meal!
 
-
+---
+thanks to [lisa goes vegan](https://lisagoesvegan.com/)
 
 
 

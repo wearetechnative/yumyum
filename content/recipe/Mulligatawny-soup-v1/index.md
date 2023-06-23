@@ -84,7 +84,7 @@ A delicious comfort soup with a lot of veggies, herbs, and spices.
 4. Add the vegetable broth and coconut milk. Bring the soup to a boil. Reduce the heat and let the soup simmer for about half an hour until the lentils are cooked. Taste and season the soup with salt and pepper. 
 5. Garnish the soup with fresh coriander. 
 
-And if you would like, you can stirr in some leftover rice in your soup. Otherwise, a freshly baked naan does the trick as well. Recipe will follow soon :)
+And if you would like, you can stirr in some leftover rice in your soup. Otherwise, a freshly baked naan does the trick as well. Recipe can be found [here](https://wearetechnative.github.io/yumyum/recipe/naan-bread-v1/)
 
 
 ### Enjoy your meal!
