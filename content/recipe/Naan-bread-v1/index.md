@@ -1,6 +1,6 @@
 ---
-title: Naan bread
-ref: Naan-bread-v1
+title: Naan
+ref: Naan-v1
 image: false
 category: bread
 tags:
